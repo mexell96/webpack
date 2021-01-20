@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return (
       <>
-        <h1>Hello TMS!</h1>
+        <h1>Hello TMS! World!</h1>
       </>
     );
   }
